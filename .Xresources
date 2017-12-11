@@ -1,0 +1,26 @@
+Xcursor.theme: Adwaita
+Xcursor.size:    22
+
+Xft.dpi:         96
+Xft.antialias:   true
+Xft.rgba:        rgb
+Xft.hinting:     true
+Xft.hintstyle:   hintslight 
+
+xterm*dynamicColors:   true
+xterm*utf8:            2
+xterm*eightBitInput:   true
+xterm*saveLines:       10000
+xterm*scrollKey:       true
+xterm*scrollTtyOutput: flase
+xterm*scrollBar:       flase
+xterm*rightScrollBar:  flase
+xterm*jumpScroll:      true
+xterm*multiScroll:     true
+xterm*toolBar:         flase
+
+
+*.background: #1f1f2c
+*.foreground: #c7c9cb
+
+*font:xft: Ubuntu Mono:size=12:style=regular
